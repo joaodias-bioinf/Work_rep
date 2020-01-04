@@ -1,5 +1,6 @@
 # Work_rep
 Repository.
+
 Melhor resultado foi seed 13.
 
 Run:
