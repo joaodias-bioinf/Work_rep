@@ -7,6 +7,7 @@ Run:
 melhor_caminho.py
 
 Or:
+
 1-scraping.py
 
 2-dataset.py
